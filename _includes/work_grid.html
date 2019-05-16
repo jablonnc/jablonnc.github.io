@@ -1,6 +1,6 @@
 
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <!-- work Grid Section -->
+    <section id="work">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -9,15 +9,15 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                {% for workItem in site.work %}
+                    <div class="col-sm-4 work-item">
+                        <a href="#workModal-{{ workItem.modal-id }}" class="work-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="img/work/{{ work.img }}" class="img-responsive" alt="{{ workItem.alt }}">
                         </a>
                     </div>
                 {% endfor %}
