@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+work: true
 title: 'Drug Repurposing'
 sub_header: Web Application created for the purpose of searching other ways in which a drug could be potentially used.
 description: Interfacing with an Elastic search server set up by my colleague, created an interface that was capable of searching through a collection of data with the purpose of identifying drugs that could be used in ways different than their current predescribed use.

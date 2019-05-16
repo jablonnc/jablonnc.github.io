@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+work: true
 title: 'Event Detection'
 sub_header: An analytical web application utilizing biometric and accelerometer data from two smart watches in the detection of a medical event.
 description: This was phase 1 of the project, with the overall goal of this phase being the accurate detection of a particular medical event through the use of smart watches (specificity cannot be given at this time due to the proprietary nature of the application).

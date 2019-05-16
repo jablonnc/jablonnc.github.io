@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 5
+work: true
 title: 'Analytics Dashboard'
 sub_header: Interactive Dashboard for displaying data associated with pediatric Colorectal surgeries.
 description: This project involved integrating data from Epic/Clarity, MyChart and REDCap into a centralized database.  An interactive dashboard was then created to help showcase this data and to provide predictive analytics.

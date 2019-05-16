@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 6
+work: true
 title: 'Grange Site Redesign'
 sub_header: We were tasked with redeveloping the entire front-end of 6 internal .NET applications for Grange Insurance.
 description: The goal of this project was to make these applications cross browser compliant and bring uniformity to the site. My specific role on this project was to serve as the project manager of our team (12 individuals) and ensure the front-end architecture was constantly updated to handle the various additions and layout concerns we met along the way.
