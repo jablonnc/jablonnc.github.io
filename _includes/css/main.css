@@ -139,21 +139,30 @@ section.success {
     }
 }
 
-#portfolio .portfolio-item {
+.portfolio-collection h3 {
+    font-size: 20px;
+}
+
+.portfolio-collection p {
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.portfolio-collection .portfolio-item {
     height: 250px;
     right: 0;
     margin: 0 0 50px;
     overflow: hidden;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+illustrations .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption {
+illustrations .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -164,11 +173,11 @@ section.success {
     transition: all ease .5s;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption:hover {
+illustrations .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+illustrations .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -179,21 +188,21 @@ section.success {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+illustrations .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+illustrations .portfolio-item .portfolio-link .caption .caption-content h3,
+illustrations .portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
 }
 
-#portfolio * {
+illustrations * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    illustrations .portfolio-item {
         margin: 0 0 30px;
     }
 }
@@ -327,24 +336,6 @@ form .row:first-child .floating-label-form-group {
 
 .portfolio-modal p {
     font-size: 16px;
-}
-
-#portfolio h3 {
-    font-size: 20px;
-}
-
-#portfolio p {
-    font-size: 16px;
-    margin-bottom: 50px;
-}
-
-#illustrations h3 {
-    font-size: 20px;
-}
-
-#illustrations p {
-    font-size: 16px;
-    margin-bottom: 50px;
 }
 
 .portfolio-modal .modal-content h2 {

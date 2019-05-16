@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 18
+modal-id: 17
 illustration: true
-title: Learn to fly
+title: Best Friends
 sub_header: This was an illustration I did for our little girl's nursery.
 date: 2019-01-01
-img: learnToFly_1.png
-images: ["learnToFly_1.png"]
+img: elephant_1.png
+images: ["elephant_1.png"]
 tech_stack: Illustrator
 ---
