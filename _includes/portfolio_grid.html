@@ -17,11 +17,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-
-                            {% for img in post.images %}
-                                <img src="img/portfolio/{{ img }}" class="img-responsive">
-                            {% endfor %}
-
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}
