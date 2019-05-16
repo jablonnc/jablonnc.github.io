@@ -316,6 +316,7 @@ form .row:first-child .floating-label-form-group {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    text-align: center;
 }
 
 .portfolio-modal .modal-content h2 {

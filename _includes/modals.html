@@ -36,12 +36,12 @@
                                 {% endif %}
                                 {% if post.worked_on %}
                                     <li>
-                                        <strong>What I worked on: </strong>{{ post.worked_on }}
+                                        <strong>What I worked on: </strong>{{ array.join(post.worked_on) }}
                                     </li>
                                 {% endif %}
                                 {% if post.tech_stack %}
                                     <li>
-                                        <strong>What technologies I used: </strong>{{ post.tech_stack }}
+                                        <strong>What technologies I used: </strong>{{ array.join(post.tech_stack) }}
                                     </li>
                                 {% endif %}
                             </ul>
