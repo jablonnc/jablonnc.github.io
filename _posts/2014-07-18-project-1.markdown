@@ -1,13 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-images: ['cabin.png', 'cabin.png']
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+title: 'Mega Bike'
+sub_header: Created two desktop application games that were powered by a child's bike with the intention of encouraging children with Muscular Dystrophy to work out their muscles.
+description: It's not very often that you get a project like this that comes along.  I was tasked with creating two interactive games that could be powered by a kids stationary bike.  The overall goal of this project was to motivate the children to ride the bike at home and in return strengthen their muscles.
+date: 2015
+img: megabike/bike_game_10.png
+images: ["megabike/bike_game_1.png", "megabike/bike_game_2.png", "megabike/bike_game_3.png", "megabike/bike_game_4.png", "megabike/bike_game_5.png", "megabike/bike_game_6.png", "megabike/bike_game_7.png", "megabike/bike_game_8.png", "megabike/bike_game_9.png", "megabike/bike_game_10.png", "megabike/bike_game_11.png", "megabike/bike_game_12.png", "megabike/bike_game_13.png", "megabike/bike_game_14.png", "megabike/bike_game_15.png", "megabike/bike_game_16.png"]
+project_date: April 2014
+client: Nationwide Children's Hospital
+worked_on: ["Created Story Boards", "Designed Assets", "Developed Architecture", "Created Games", "Configured Tablets"]
+tech_stack: ["Adobe AIR", "Starling", "Box2D", "Texture Packer", "Physics Editor"]
 ---
