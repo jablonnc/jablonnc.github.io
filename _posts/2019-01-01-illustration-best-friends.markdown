@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 16
+modal-id: 17
 illustration: true
-title: 'A Bear and his Honey'
+title: Best Friends
 sub_header: This was an illustration I did for our little girl's nursery.
 date: 2019-01-01
-img: bear_1.png
-images: ["bear_1.png"]
+img: elephant_2.png
+images: ["elephant_1.png"]
 tech_stack: Illustrator
 ---
