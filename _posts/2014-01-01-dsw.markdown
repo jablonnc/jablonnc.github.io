@@ -10,5 +10,5 @@ client: DSW Shoes
 worked_on: Development
 tech_stack: AS3 Tweenlite
 images: ["dsw_1.png", "dsw_2.png", "dsw_3.png"]
-img: dsw_1.png
+img: dsw_4.png
 ---
