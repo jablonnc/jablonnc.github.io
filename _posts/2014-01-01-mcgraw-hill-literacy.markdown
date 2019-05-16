@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 7
 title: McGraw-Hill Flex Literacy
 sub_header: A comprehensive Reading and Language Arts Intervention System for struggling readers.
 description: This was a large scale educational application built in the Flex framework (utilizing the Robotlegs AS3 Micro-Architecture).  My role on this project covered a wide range of tasks, from creating interactive games that were capable of being tailored on the back-end through our custom CMS to the creation of a calendar that allowed teachers to track what they were reading in the classroom.
