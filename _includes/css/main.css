@@ -139,6 +139,15 @@ section.success {
     }
 }
 
+#about h3 {
+    font-size: 22px;
+    margin-top: 0;
+}
+
+#about p {
+    font-size: 16px;
+}
+
 .portfolio-collection h3 {
     font-size: 20px;
 }
