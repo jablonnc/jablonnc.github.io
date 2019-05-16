@@ -1,58 +1,52 @@
- <!-- Portfolio Modals -->
- {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
-                            <hr>
+<!-- Portfolio Modals -->
+{% for post in site.posts %}
+   <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <h2>{{ post.title }}</h2>
+                           <hr class="star-primary">
 
-                            {% if post.sub_header %}
-                                <h3>{{ post.sub_header }}</h3>
-                            {% endif %}
+                           {% for img in post.images %}
+                               <img src="img/portfolio/{{ img }}" class="img-responsive img-centered">
+                           {% endfor %}
 
-                            {% if post.description %}
-                                <p>{{ post.description }}</p>
-                            {% endif %}
-
-                            <ul class="list-unstyled item-details">
-                                {% if post.client %}
-                                    <li>
-                                        <strong>Client: </strong>{{ post.client }}
-                                    </li>
-                                {% endif %}
-                                {% if post.project_date %}
-                                    <li>
-                                        <strong>Date: </strong>{{ post.project_date }}
-                                    </li>
-                                {% endif %}
-                                {% if post.worked_on %}
-                                    <li>
-                                        <strong>What I worked on: </strong>{{ post.worked_on }}
-                                    </li>
-                                {% endif %}
-                                {% if post.tech_stack %}
-                                    <li>
-                                        <strong>What technologies I used: </strong>{{ post.tech_stack }}
-                                    </li>
-                                {% endif %}
-                            </ul>
-
-                            {% for img in post.images %}
-                                <img src="img/portfolio/{{ img }}" class="img-responsive img-centered">
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+                           {% if post.description %}
+                               <p>{{ post.description }}</p>
+                           {% endif %}
+                           <ul class="list-inline item-details">
+                               {% if post.client %}
+                                   <li>Client:
+                                       <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                       </strong>
+                                   </li>
+                               {% endif %}
+                               {% if post.project-date %}
+                                   <li>Date:
+                                       <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                       </strong>
+                                   </li>
+                               {% endif %}
+                               {% if post.category %}
+                                   <li>Service:
+                                       <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                       </strong>
+                                   </li>
+                               {% endif %}
+                           </ul>
+                           <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
 {% endfor %}
