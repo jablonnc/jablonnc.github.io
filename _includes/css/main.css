@@ -116,7 +116,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 55px 0;
+    padding: 25px 0;
 }
 
 section h2 {
@@ -327,6 +327,15 @@ form .row:first-child .floating-label-form-group {
 
 .portfolio-modal p {
     font-size: 16px;
+}
+
+#portfolio h3 {
+    font-size: 20px;
+}
+
+#portfolio p {
+    font-size: 16px;
+    margin-bottom: 50px;
 }
 
 .portfolio-modal .modal-content h2 {
