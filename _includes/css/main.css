@@ -1,15 +1,11 @@
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body {
     overflow-x: hidden;
 }
 
 p {
     font-size: 20px;
+    font-family: 'Roboto Condensed',Helvetica,sans-serif;
+    font-weight: 100;
 }
 
 p.small {
@@ -32,7 +28,8 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto Condensed',Helvetica,sans-serif;
+    font-weight: 100;
 }
 
 hr.star-light,
@@ -98,7 +95,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto Condensed',Helvetica,sans-serif
     font-size: 2em;
 }
 
@@ -148,7 +145,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto Condensed',Helvetica,sans-serif
 }
 
 .navbar a:focus {
@@ -169,7 +166,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 55px 0;
 }
 
 section h2 {
@@ -451,4 +448,8 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+#about {
+    margin-top: 110px;
 }
