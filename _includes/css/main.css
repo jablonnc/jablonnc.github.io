@@ -329,11 +329,20 @@ form .row:first-child .floating-label-form-group {
     font-size: 16px;
 }
 
-#portfolio h3, #illustrations h3 {
+#portfolio h3 {
     font-size: 20px;
 }
 
-#portfolio p, #illustrations p {
+#portfolio p {
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+#illustrations h3 {
+    font-size: 20px;
+}
+
+#illustrations p {
     font-size: 16px;
     margin-bottom: 50px;
 }
