@@ -10,4 +10,5 @@ client: Cardinal Health
 worked_on: Architecture Development
 tech_stack: Flash Tweenlite
 images: ["cardinal_1.png", "cardinal_2.png", "cardinal_3.png", "cardinal_4.png", "cardinal_5.png", "cardinal_6.png", "cardinal_7.png", "cardinal_8.png", "cardinal_9.png", "cardinal_10.png", "cardinal_11.png"]
+img: cardinal_1.png
 ---

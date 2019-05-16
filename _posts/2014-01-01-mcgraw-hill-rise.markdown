@@ -10,4 +10,5 @@ client: McGraw-Hill Education
 worked_on: Project Manager, Architecture Development
 tech_stack: Scorm, Html, SASS, Javascript/Jquery, XML
 images: ["mcgrawRise_1.png", "mcgrawRise_2.png", "mcgrawRise_3.png", "mcgrawRise_4.png", "mcgrawRise_5.png", "mcgrawRise_6.png"]
+img: mcgrawRise_1.png
 ---

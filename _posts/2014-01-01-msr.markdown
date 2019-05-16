@@ -9,5 +9,6 @@ project_date: 2014
 client: Michael Shank Racing
 worked_on: Architecture Development
 tech_stack: Flash Tweenlite
+img: msr_1.png
 images: ["msr_1.png"]
 ---

@@ -10,4 +10,5 @@ client: McGraw-Hill Education
 worked_on: Development (Games and Various Components), APIs
 tech_stack: Flex, Flash, Robot Legs
 images: ["mcgrawFlexLiteracy_1.png", "mcgrawFlexLiteracy_2.png", "mcgrawFlexLiteracy_3.png", "mcgrawFlexLiteracy_4.png", "mcgrawFlexLiteracy_5.png", "mcgrawFlexLiteracy_6.png", "mcgrawFlexLiteracy_7.png"]
+img: mcgrawFlexLiteracy_1.png
 ---

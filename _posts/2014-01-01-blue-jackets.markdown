@@ -10,4 +10,5 @@ client: McGraw-Hill Education
 worked_on: Development
 tech_stack: Flash, Tweenlite
 images: ["blueJackets_1.png"]
+img: blueJackets_1.png
 ---
