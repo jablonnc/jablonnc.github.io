@@ -2,8 +2,8 @@
 layout: default
 modal-id: 13
 work: true
-title: 'Tenable.io (original)'
-sub_header: Served on the front-end platform team helping to build Tenable.io (the companies flagship product).
+title: 'Tenable.io (original application)'
+sub_header: Served on the front-end platform team helping to build the first generation of Tenable.io (the companies flagship product).
 description: In that role I helped to create high-level solutions that were consumed by our feature teams while also supporting/extending the platform. 
 date: 2016-01-01
 img: tio-old-gen.png
