@@ -6,8 +6,13 @@
  */
 
  import * as React from 'react';
- import Box from '@mui/material/Box';
+ import Box from '@rebass/grid';
  import Typography from '@mui/material/Typography';
+ import styled from 'styled-components';
+
+ const Header = styled(Box)`
+    background: red;
+ `
  
  export default function AccountMenu({
      children
@@ -24,10 +29,10 @@
 
    return (
     <React.Fragment>
-        <Box sx={{ display: 'flex', alignItems: 'right', justifyContent: 'right' }}>
+        <Header sx={{ display: 'flex', alignItems: 'right', justifyContent: 'right' }}>
             <Typography sx={{ minWidth: 100 }}>Contact</Typography>
             <Typography sx={{ minWidth: 100 }}>Profile</Typography>
-        </Box>
+        </Header>
 
         <>
             {children}
