@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
+
+    <div class="article-post">
+    {{content}}
+    </div>
+</section>
+
+<div class="d-md-flex pb-3">
+    <div class="align-self-center text-center category-container">
+      <span class="category-label">Categories:</span> 
+            {% assign categories_list = site.categories %}
+            {% if categories_list.first[0] == null %}
+                {% for category in categories_list %}
+                    <a class="mt-1 mb-1 category-link" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                {% endfor %}
+            {% else %}
+                {% for category in categories_list %}
+                    <a class="mt-1 mb-1 category-link" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                {% endfor %}
+            {% endif %}
+            {% assign categories_list = nil %}
+    </div>
+  </div>
+  
+  <div class="row listrecent">
+    {% for post in site.posts %}
+        {% if post.post-type == page.post-type %}
+            {% include featuredbox.html %}
+        {% endif %}
+    {% endfor %}
+  </div>
