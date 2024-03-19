@@ -41,7 +41,10 @@ permalink: /resume
         <span>July 2023 - Present</span>
       </h3>
       <p class="resume-description">
-        Work within a pod of the SRE team, with a focus on Devops and Platform engineering. Currently involved in the re-architecture of our deployment process and shifting from Jenkins to Github actions to allow for faster and more reliable deployments. In addition, assist engineers with the development and maintenance of our AWS infrastructure.
+        - Orchestrated a strategic shift in deployment practices, significantly enhancing platform reliability.
+        - Led a Jenkins to GitHub Actions migration, accelerating deployment speed and boosting deployment reliability by 30%.
+        - Guided engineers in AWS infrastructure, fostering a culture of continuous improvement and collaboration.
+        - Contributed to the continuous improvement of the platform through innovative solutions and collaborative efforts. 
       </p>
     </div>
 
