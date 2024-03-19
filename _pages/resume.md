@@ -276,6 +276,9 @@ permalink: /resume
         Federated Modules, NX, Single-SPA
       </p>
     </div>
+  </div>
+
+  <div class="col-sm-6">
   
     <div class="resume-function">
       <h3 class="resume-subheader">
