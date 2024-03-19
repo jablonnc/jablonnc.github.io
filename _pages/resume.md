@@ -33,9 +33,9 @@ permalink: /resume
       </h3>
       <p class="resume-description">
         <ul>
-          <li>Orchestrated a strategic shift in deployment practices, significantly enhancing platform reliability.</li>
+          <li>Orchestrated a strategic shift in deployment practices, enhancing platform reliability.</li>
           <li>Led a Jenkins to GitHub Actions migration, accelerating deployment speed and boosting deployment reliability by 30%.</li>
-          <li>Guided engineers in AWS infrastructure, fostering a culture of continuous improvement and collaboration.</li>
+          <li>Provided guidance and support for over 10+ engineering teams in AWS infrastructure, enabling teams to focus on their feature work.</li>
         </ul>
       </p>
     </div>
@@ -47,9 +47,9 @@ permalink: /resume
       </h3>
       <p class="resume-description">
         <ul class="resume-section-list">
-          <li>Led the front-end platform team, helping to optimize processes, reduce developer friction points and improve deployment strategies.</li>
-          <li>Pioneered a platform observability tool, elevating application and repository health monitoring across numerous projects.</li>
-          <li>Engineered solutions to scale applications efficiently in a micro-frontend architecture, enhancing system robustness.</li>
+          <li>Served as a lead on the front-end platform team, helping to optimize processes, reduce developer friction points and improve deployment strategies.</li>
+          <li>Created a platform observability tool, helping to reduce security vulnerabilities by 60% in the frontend-end by elevating repository health across numerous projects.</li>
+          <li>Engineered solutions to reduce the size of applications in a micro-frontend architecture, improving the initial load experience by 30%.</li>
         </ul>
       </p>
     </div>
@@ -70,9 +70,7 @@ permalink: /resume
       <p class="resume-description">
         <ul class="resume-section-list">
           <li>Led the front-end platform team, providing high-level solutions for feature teams and driving the architecture of the frontend.</li>
-          <li>Spearheaded the transformation of the company's frontend architecture using NX and Webpack's federated module, improving user experience and system scalability.</li>
-          <li>Developed a design system that is integrated into all Tenable products, ensuring consistency and improving brand recognition.</li>
-          <li>Optimized app performance, achieving a 30% reduction in load time.</li>
+          <li>Spearheaded the transformation of the company's frontend architecture using NX and Webpack's federated module, reducing application load time by over 40% and developer bottlenecks in the CICD by over 50%.</li>
         </ul>
       </p>
     </div>
@@ -92,8 +90,8 @@ permalink: /resume
       </h3>
       <p class="resume-description">
         <ul class="resume-section-list">
-          <li>Architected and created a design system that fed into all Tenable products.</li>
-          <li>While continuing to maintain the design system, also improved the overall architecture/framework of our flagship product (TIO).</li>
+          <li>Developed a design system that was integrated into 6 separate Tenable products, ensuring consistency and improving brand recognition.</li>
+          <li>Improved the overall architecture and framework of our flagship product.</li>
         </ul>
       </p>
     </div>
@@ -113,8 +111,8 @@ permalink: /resume
       </h3>
       <p class="resume-description">
         <ul class="resume-section-list">
-          <li>Led the revamp of an outdated educational app, enhancing user engagement through innovative animations.</li>
-          <li>Pioneered the application's development using the Angular framework and HTML5 technologies, improving efficiency.</li>
+          <li>Led the revamp of an outdated educational app, enhancing user engagement by over 30% through innovative animations.</li>
+          <li>Rearchitected application development using the Angular framework and HTML5 technologies, improving performance by 20%.</li>
           <li>Executed rigorous tests using Cucumber and Ruby, ensuring software quality and reliability.</li>
         </ul>
       </p>
@@ -135,8 +133,8 @@ permalink: /resume
       <p class="resume-description">
         <ul class="resume-section-list">
           <li>Innovated in healthcare tech by developing games for an indoor bike, boosting the patient rehab experience.</li>
-          <li>Developed a web app for seizure detection, advancing neurological research.</li>
-          <li>Crafted a user-friendly mobile app for research consent, ensuring compliance and enhancing data collection.</li>
+          <li>Created a web app for seizure detection, advancing neurological research.</li>
+          <li>Crafted a user-friendly mobile app for research consent, improving compliance by 50% and enhancing data collection.</li>
         </ul>
       </p>
     </div>
@@ -155,9 +153,9 @@ permalink: /resume
       </h3>
       <p class="resume-description">
         <ul class="resume-section-list">
-          <li>Led the redesign and redevelopment of multiple .NET applications, enhancing user experience and functionality.</li>
-          <li>Spearheaded the development of a large-scale gaming application using the Flex framework, improving user engagement.</li>
-          <li>Pioneered the creation of an application using the HandlebarsJS library, boosting system performance.</li>
+          <li>Led the redesign and redevelopment of 6 .NET applications, enhancing user experience and functionality.</li>
+          <li>Helped develop a large-scale gaming application using the Flex framework.</li>
+          <li>Pioneered the creation of an application using the HandlebarsJS library, boosting system performance by 40%.</li>
         </ul>
       </p>
     </div>
