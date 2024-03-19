@@ -14,15 +14,6 @@ permalink: /resume
   <h2 class="resume-section-header">Career Profile</h2>
   <p>
   Principal Software Engineer with over 16 years of experience, specializes in creating scalable architectures and reducing developer friction points. With expertise in Micro-Frontends, AWS, and CI/CD practices, this professional has led significant improvements in deployment speed and platform reliability. Passionate about fostering a culture of innovation and collaboration, aiming to drive future advancements in software engineering.
-  
-  <ul>
-    <li><b>Software Engineer</b> - I've been around the block. While I was primarily focused on the frontend for many years, my focus has now shifted to a much broader focus. So whether's it working in React on the frontend or setting up a new service in AWS, I love learning new things and will go where the code leads me.</li>
-    <li><b>Architect</b> - I love architecture, whether it's dealing with old legacy code that really needs some TLC or figuring out how a new solution is going to fit into the larger ecosystem.</li>
-    <li><b>Platform Engineer</b> - I love helping other developers, this can range from reducing friction points or creating new solutions to help teams become more self sufficient.</li>
-    <li><b>DevOps</b> - Getting code from a developers machine to the customers is a favorite area of mine.</li>
-    <li><b>QA</b> - Whether it's a customer facing issue or helping to unblock another developer, my unique mix of skills allows me to be debug issues quickly and efficiently.</li>
-  </ul>
-
   </p>
 </div>
 
