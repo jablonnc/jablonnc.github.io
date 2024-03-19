@@ -925,6 +925,10 @@ iframe {
     margin-bottom: 16px;
 }
 
+.resume-section-list {
+    font-size: 14px;
+}
+
 .resume-primary-section p {
     font-size: 18px;
     font-weight: 200;

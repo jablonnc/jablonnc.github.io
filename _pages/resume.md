@@ -13,8 +13,8 @@ permalink: /resume
 <div class="resume-section resume-primary-section">
   <h2 class="resume-section-header">Career Profile</h2>
   <p>
-  I am a seasoned software engineer, architect and team lead with experience across a range of industries and tech stacks. I care deeply about developer experience, scalable architectures, and the overall customer experience. The following list showcases the various areas I work in:
-
+  Principal Software Engineer with over 16 years of experience, specializes in creating scalable architectures and reducing developer friction points. With expertise in Micro-Frontends, AWS, and CI/CD practices, this professional has led significant improvements in deployment speed and platform reliability. Passionate about fostering a culture of innovation and collaboration, aiming to drive future advancements in software engineering.
+  
   <ul>
     <li><b>Software Engineer</b> - I've been around the block. While I was primarily focused on the frontend for many years, my focus has now shifted to a much broader focus. So whether's it working in React on the frontend or setting up a new service in AWS, I love learning new things and will go where the code leads me.</li>
     <li><b>Architect</b> - I love architecture, whether it's dealing with old legacy code that really needs some TLC or figuring out how a new solution is going to fit into the larger ecosystem.</li>
@@ -55,7 +55,7 @@ permalink: /resume
         <span>June 2022 - July  2023</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Led the front-end platform team, helping to optimize processes, reduce developer friction points and improve deployment strategies.</li>
           <li>Pioneered a platform observability tool, elevating application and repository health monitoring across numerous projects.</li>
           <li>Engineered solutions to scale applications efficiently in a micro-frontend architecture, enhancing system robustness.</li>
@@ -77,7 +77,7 @@ permalink: /resume
         <span>June 2022 - June 2022</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Led the front-end platform team, providing high-level solutions for feature teams and driving the architecture of the frontend.</li>
           <li>Spearheaded the transformation of the company's frontend architecture using NX and Webpack's federated module, improving user experience and system scalability.</li>
           <li>Developed a design system that is integrated into all Tenable products, ensuring consistency and improving brand recognition.</li>
@@ -100,7 +100,7 @@ permalink: /resume
         <span>April 2016 - June 2020</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Architected and created a design system that fed into all Tenable products.</li>
           <li>While continuing to maintain the design system, also improved the overall architecture/framework of our flagship product (TIO).</li>
         </ul>
@@ -121,7 +121,7 @@ permalink: /resume
         <span>November 2015 - April 2016</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Led the revamp of an outdated educational app, enhancing user engagement through innovative animations.</li>
           <li>Pioneered the application's development using the Angular framework and HTML5 technologies, improving efficiency.</li>
           <li>Executed rigorous tests using Cucumber and Ruby, ensuring software quality and reliability.</li>
@@ -142,7 +142,7 @@ permalink: /resume
         <span>March 2014 - November 2015</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Innovated in healthcare tech by developing games for an indoor bike, boosting the patient rehab experience.</li>
           <li>Developed a web app for seizure detection, advancing neurological research.</li>
           <li>Crafted a user-friendly mobile app for research consent, ensuring compliance and enhancing data collection.</li>
@@ -163,7 +163,7 @@ permalink: /resume
         <span>2011 - 2014</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Led the redesign and redevelopment of multiple .NET applications, enhancing user experience and functionality.</li>
           <li>Spearheaded the development of a large-scale gaming application using the Flex framework, improving user engagement.</li>
           <li>Pioneered the creation of an application using the HandlebarsJS library, boosting system performance.</li>
@@ -184,7 +184,7 @@ permalink: /resume
         <span>2010 - 2011</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Led front-end and back-end development for scalable content on multiple sites.</li>
           <li>Pioneered Flash development for interactive micro-sites enhancing user engagement.</li>
           <li>Analyzed web analytics to guide SEO strategies, improving site visibility and traffic metrics.</li>
@@ -206,7 +206,7 @@ permalink: /resume
         <span>2008 - 2010</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Led IT security evaluations, ensuring robust system protection.</li>
           <li>Successfully implemented a large-scale IT project, enhancing operational efficiency.</li>
         </ul>
