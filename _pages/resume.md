@@ -74,14 +74,6 @@ permalink: /resume
         </ul>
       </p>
     </div>
-  </div>
-
-
-  <div class="resume-experience-container">
-    <div class="resume-experience-header-container">
-      <img class="resume-experience-logo" src="{{ site.baseurl }}/assets/images/resume/tenable-logo.png">
-      <h2 class="resume-experience-header">Tenable Network Security | Concord, OH (work remotely)</h2>
-    </div>
 
     <div class="resume-function">
       <h3 class="resume-subheader">
