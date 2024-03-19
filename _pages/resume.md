@@ -243,7 +243,43 @@ permalink: /resume
   
     <div class="resume-function">
       <h3 class="resume-subheader">
-        CICD
+        Web Development
+      </h3>
+      <p class="resume-description">
+        HTML, CSS, Javascript, Typescript
+      </p>
+    </div>
+  
+    <div class="resume-function">
+      <h3 class="resume-subheader">
+        Build
+      </h3>
+      <p class="resume-description">
+        Webpack, Vite, Esbuild
+      </p>
+    </div>
+  
+    <div class="resume-function">
+      <h3 class="resume-subheader">
+        Libraries
+      </h3>
+      <p class="resume-description">
+        React, Redux, GraphQL
+      </p>
+    </div>
+  
+    <div class="resume-function">
+      <h3 class="resume-subheader">
+        Micro-Frontends
+      </h3>
+      <p class="resume-description">
+        Federated Modules, NX, Single-SPA
+      </p>
+    </div>
+  
+    <div class="resume-function">
+      <h3 class="resume-subheader">
+        CI/CD
       </h3>
       <p class="resume-description">
         Github Actions, Jenkins
@@ -255,99 +291,25 @@ permalink: /resume
         Cloud Platform
       </h3>
       <p class="resume-description">
-        AWS, Terraform, Docker
+        AWS
       </p>
     </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        Monitoring
-      </h3>
-      <p class="resume-description">
-        New Relic, Sentry, DataDog, Cortex
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        Javascript
-      </h3>
-      <p class="resume-description">
-        ES6+, React, Typescript
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        CSS
-      </h3>
-      <p class="resume-description">
-        Sass/Less, Styled Components
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        Micro-Frontends
-      </h3>
-      <p class="resume-description">
-        NX, Single-SPA
-      </p>
-    </div>
-  </div>
   
-  <div class="col-sm-6">
     <div class="resume-function">
       <h3 class="resume-subheader">
-        Build
+        Iac
       </h3>
       <p class="resume-description">
-        Webpack, Vite, Node.js
+        Terraform
       </p>
     </div>
-
+  
     <div class="resume-function">
       <h3 class="resume-subheader">
-        Packaging
+        Containerization
       </h3>
       <p class="resume-description">
-        Lerna, Nexus
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        Unit Testing
-      </h3>
-      <p class="resume-description">
-        Vitest, Jest, Enzyme
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        E2E Testing
-      </h3>
-      <p class="resume-description">
-        Cypress, Cucumber, Selenium, Saucelabs
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        Design
-      </h3>
-      <p class="resume-description">
-        Invision, Adobe Suite
-      </p>
-    </div>
-
-    <div class="resume-function">
-      <h3 class="resume-subheader">
-        Guides
-      </h3>
-      <p class="resume-description">
-        Pendo
+        Docker
       </p>
     </div>
   </div>
