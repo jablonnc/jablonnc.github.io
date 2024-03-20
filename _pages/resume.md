@@ -32,7 +32,7 @@ permalink: /resume
         <span>July 2023 - Present</span>
       </h3>
       <p class="resume-description">
-        <ul>
+        <ul class="resume-section-list">
           <li>Orchestrated a strategic shift in deployment practices, enhancing platform reliability.</li>
           <li>Led a Jenkins to GitHub Actions migration, accelerating deployment speed and boosting deployment reliability by 30%.</li>
           <li>Provided guidance and support for over 10+ engineering teams in AWS infrastructure, enabling teams to focus on their feature work.</li>

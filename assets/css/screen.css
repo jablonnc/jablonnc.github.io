@@ -927,6 +927,7 @@ iframe {
 
 .resume-section-list {
     font-size: 14px;
+    margin-left: 12px;
 }
 
 .resume-primary-section p {
@@ -977,10 +978,6 @@ iframe {
 .resume-subheader span {
     color: rgba(0, 0, 0, .74);
     float: right;
-}
-
-.resume-subheader ul {
-    margin-left: 12px;
 }
 
 .resume-description {
