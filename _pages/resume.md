@@ -223,37 +223,37 @@ permalink: /resume
   <div class="col-sm-6">
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Web Development
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         HTML, CSS, Javascript, Typescript
       </p>
     </div>
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Build
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         Webpack, Vite, Esbuild
       </p>
     </div>
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Libraries
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         React, Redux, GraphQL
       </p>
     </div>
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Micro-Frontends
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         Federated Modules, NX, Single-SPA
       </p>
     </div>
@@ -262,37 +262,37 @@ permalink: /resume
   <div class="col-sm-6">
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         CI/CD
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         Github Actions, Jenkins
       </p>
     </div>
 
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Cloud Platform
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         AWS
       </p>
     </div>
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Iac
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         Terraform
       </p>
     </div>
   
     <div class="resume-function">
-      <h3 class="resume-subheader">
+      <h3 class="resume-skills-subheader">
         Containerization
       </h3>
-      <p class="resume-description">
+      <p class="resume-skills-description">
         Docker
       </p>
     </div>
