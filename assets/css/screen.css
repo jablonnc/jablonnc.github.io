@@ -968,16 +968,19 @@ iframe {
 
 .resume-subheader {
     color: rgba(0, 0, 0, .44);
-    font-size: 12px;
+    font-size: 14px;
     margin-bottom: 6px;
+    margin-left: 36px;
     font-weight: 300;
 }
 
 .resume-subheader span {
     color: rgba(0, 0, 0, .74);
-    font-size: 12px;
-    margin-bottom: 8px;
     float: right;
+}
+
+.resume-subheader ul {
+    margin-left: 12px;
 }
 
 .resume-description {
