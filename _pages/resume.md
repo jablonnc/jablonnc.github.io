@@ -13,7 +13,7 @@ permalink: /resume
 <div class="resume-section resume-primary-section">
   <h2 class="resume-section-header">Career Profile</h2>
   <p>
-  Principal Software Engineer with over 16 years of experience, specializes in creating scalable architectures and reducing developer friction points. With expertise in Micro-Frontends, AWS, and CI/CD practices, this professional has led significant improvements in deployment speed and platform reliability. Passionate about fostering a culture of innovation and collaboration, aiming to drive future advancements in software engineering.
+  Principal Software Engineer with over 16 years of experience. Specializes in frontend development, scalable architectures, cloud infrastructure and developer tooling. Demonstrates a strong proficiency in a wide range of technologies and working across teams to help achieve business goals.
   </p>
 </div>
 
